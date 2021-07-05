@@ -1,0 +1,8 @@
+1. kepanjangan XAMPP Cross Platform Apache MySQL / MariaDB PHP Perl
+2. akses pada START->All Programs->XAMPP->XAMPP Control Panel.
+3. Jika anda menggunakan XAMPP, tinggal klik tombol Start pada baris MySQL dari XAMPP Control Panel.
+4. klik tombol admin pada baris MySQL dari XAMPP control panel maka akan di arahkan pada my PHPMyAdmin
+5. pastikan MySQL server sudah berjalan,
+pada cmd ketikkan c:\xampp\mysql\bin\mysql -u root,
+pada terminal akan menampilkan welcomde dari MariaDB
+
